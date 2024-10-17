@@ -1,0 +1,34 @@
+"use strict";
+let num = 123;
+alert(num); 
+let a;    
+a = 10;    
+alert(a); 
+a = 20;    
+alert(a); 
+let d;
+d = 1 +2 +3;
+alert(d);
+let b =2 ;
+let c = 10;
+alert(c+b);
+alert(c - b);
+alert(c*b);
+alert(c/b);
+let e = 10;
+let m = 5;
+let result = e+m;
+alert(result);
+let aa = 1.5;
+let bb = 0.75;
+alert(aa+bb);
+let x = -1;
+alert(-x);
+alert(2 ** 10);
+let str = "alrih kosta";
+alert(str);
+let sr = "java";
+let r = "script"
+alert(sr + " " + r)
+let swr = 'abcde';
+alert(str.length);
